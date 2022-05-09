@@ -1,2 +1,2 @@
 # TicTacToe
-Created with CodeSandbox
+I have built this game to practice Vanilla JavaScript.
